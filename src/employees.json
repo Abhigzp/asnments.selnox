@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "category": "Development",
+      "subcategories": ["Frontend", "Backend", "UI/UX"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "category": "Design",
+      "subcategories": ["Web Design", "Graphic Design"]
+    }
+    
+  ]
+  
